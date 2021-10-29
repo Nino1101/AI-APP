@@ -1,0 +1,13 @@
+.heading{
+    box-shadow:5px 5px 5px white;
+    padding:3px;
+    margin:3px;
+    font-size:3px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px white;
+    
+}
